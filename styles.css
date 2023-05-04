@@ -5,5 +5,24 @@ body{
 .book-library{
 	background: #ffffff;
 	text-align: center;
-	
+	margin: auto;
+}
+.book{
+	padding: 10px;
+}
+.book h2{
+	margin: 0px;
+	text-align: left;
+}
+.book p{
+	color: #777777;
+	padding: 0px;
+	margin: 0px;
+	text-align: left;
+}
+.book div{
+	background: #2ecc71;
+	margin-bottom: 10px;
+	color: white;
+	border-radius: 3px;
 }
